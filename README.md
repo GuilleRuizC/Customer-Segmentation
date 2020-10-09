@@ -7,4 +7,4 @@ the data is called 'supermarket_sales.csv'.
 
 R files: global.R, ui.R and server.R are the files conforming the shiny app. 
 
-Short PPT presentation to introduce the shiny app: Customer_segmentation.ppt 
+Short PPT presentation to introduce the shiny app: Customer_segmentation.pptx 
